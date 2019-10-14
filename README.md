@@ -2,6 +2,7 @@
 
 Our blog server is ready (or almost) ready to go! So, instead of keeping it locally we can deploy it and access it from everywhere. 
 First of all we will deploy our Mongo DB on Atlas (MLab was the first idea, the reason of this decission will be explained in the lesson). We'll check if our express server (still local) can access to the remote DB and after that we will deploy it on Heroku.
+
 Make sure that your app is a git repo because we'll need that.
 
 
